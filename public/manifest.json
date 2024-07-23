@@ -1,0 +1,14 @@
+{
+  "name": "Plugin Name",
+  "id": "0",
+  "api": "1.0.0",
+  "main": "code.js",
+  "capabilities": [],
+  "enableProposedApi": false,
+  "documentAccess": "dynamic-page",
+  "editorType": ["figma", "dev"],
+  "ui": "index.html",
+  "networkAccess": {
+    "allowedDomains": ["https://rsms.me"]
+  }
+}
